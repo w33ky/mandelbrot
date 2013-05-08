@@ -1,0 +1,4 @@
+mandelbrot
+==========
+
+simple mandelbrot viewer
